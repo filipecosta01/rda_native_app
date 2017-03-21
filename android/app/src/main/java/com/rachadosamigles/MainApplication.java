@@ -1,4 +1,4 @@
-package com.pepperoniapptemplate;
+package com.rachadosamigles;
 
 import android.app.Application;
 
